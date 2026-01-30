@@ -1,8 +1,7 @@
 # Hey there 🙋‍♀️
 <img align="right" src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-ae78df4/wp-content/uploads/2021/09/Tanjirou-demon-slayer.gif" width="280px" alt="Hiii" />
 
-<a href="https://chayanikaarora26.github.io/"></a>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-indigo?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chayanikaarora26.github.io/)
 
  
 I am **Chayanika Arora** 👩‍💻  
