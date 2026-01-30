@@ -1,7 +1,7 @@
 # Hey there 🙋‍♀️
 <img align="right" src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-ae78df4/wp-content/uploads/2021/09/Tanjirou-demon-slayer.gif" width="280px" alt="Hiii" />
 
-Check this out <a href="https://chayanikaarora26.github.io/">
+<a href="https://chayanikaarora26.github.io/">
 I am **Chayanika Arora** 👩‍💻  
 
 ⭐ Master's of Computer Science (**AI & Data Science**) at the **University of Sydney**  
